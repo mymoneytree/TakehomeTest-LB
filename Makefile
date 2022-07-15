@@ -1,4 +1,4 @@
-PROJECT = decode-server-mac
+PROJECT = decode-server
 BUILD_TIMESTAMP = $(shell date +%s)
 COMMIT = $(shell git rev-parse HEAD)
 
